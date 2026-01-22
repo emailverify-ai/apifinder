@@ -242,6 +242,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [EmailVerify](https://emailverify.ai) | Email verification and validation | `apiKey` | Yes | Freemium | [Docs](https://emailverify.ai/docs) |
 | [Mailgun](https://www.mailgun.com) | Email sending, receiving, and tracking | `apiKey` | Yes | Freemium | [Docs](https://documentation.mailgun.com/) |
 | [Postmark](https://postmarkapp.com) | Transactional email delivery | `apiKey` | Yes | Freemium | [Docs](https://postmarkapp.com/developer) |
 | [Resend](https://resend.com) | Email API for developers | `apiKey` | Yes | Freemium | [Docs](https://resend.com/docs) |
